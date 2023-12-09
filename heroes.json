@@ -1,12 +1,6 @@
 {
   "heroes": [
     {
-      "id": "c3c03ede-c9ad-43cf-a38f-5a19cb472b6f",
-      "name": "Каримов",
-      "description": "gggggggggggggggggggggg",
-      "element": "water"
-    },
-    {
       "id": "4e51978a-c4f4-4076-a86b-26bfdf6fa707",
       "name": "Murad",
       "description": "tttttttttttttttttttt",
@@ -19,10 +13,10 @@
       "element": "earth"
     },
     {
-      "id": "fd17663b-8d11-44ad-a08c-b555aae7af6e",
-      "name": "firstweb1",
-      "description": "nnnnnnnnnnnnnnn",
-      "element": "wind"
+      "id": "b5ea5639-46a1-482f-8c0f-d299a2513bf2",
+      "name": "Мурад",
+      "description": "iiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "element": "fire"
     }
   ],
   "filters": [
