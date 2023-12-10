@@ -1,22 +1,10 @@
 {
   "heroes": [
     {
-      "id": "4e51978a-c4f4-4076-a86b-26bfdf6fa707",
-      "name": "Murad",
-      "description": "tttttttttttttttttttt",
-      "element": "wind"
-    },
-    {
-      "id": "d7b2338a-72b6-462a-9d05-c643ed3a1ded",
-      "name": "Murad Kərimov",
-      "description": "dddddddddddddddd",
-      "element": "earth"
-    },
-    {
-      "id": "b5ea5639-46a1-482f-8c0f-d299a2513bf2",
-      "name": "Мурад",
-      "description": "iiiiiiiiiiiiiiiiiiiiiiiiiiiii",
-      "element": "fire"
+      "id": "6691358e-90b2-4df6-8113-bda2b13846f2",
+      "name": "akula",
+      "description": "uzmek",
+      "element": "water"
     }
   ],
   "filters": [
