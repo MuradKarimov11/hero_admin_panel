@@ -3,9 +3,7 @@ import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import classNames from 'classnames';
 
-import { fetchFilters } from '../../actions';
-import { filtersChanged } from './filtersSlice';
-
+import { filtersChanged, fetchFilters  } from './filtersSlice';
 import Spinner from '../spinner/Spinner';
 
 const HeroesFilters = () => {
@@ -33,10 +31,8 @@ const HeroesFilters = () => {
             return <h5 className="text-center mt-5">Фильтры не найдены</h5>
         }
 
-        // Данные в json-файле я расширил классами и текстом
         return arr.map(({name, className, label}) => {
 
-            // Используем библиотеку classnames и формируем классы динамически
             const btnClass = classNames('btn', className, {
                 'active': name === activeFilter
             });
