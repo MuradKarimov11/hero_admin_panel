@@ -1,40 +1,51 @@
 {
   "heroes": [
     {
-      "id": "6691358e-90b2-4df6-8113-bda2b13846f2",
-      "name": "akula",
-      "description": "uzmek",
-      "element": "water"
+      "id": "28a736f4-2dc0-41ab-af5d-f1bea11a09f2",
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
     },
     {
-      "id": "83cb74cc-e777-4ab5-95f4-2e06628c3c27",
-      "name": "Murad",
-      "description": "kkkkkkkkkkkkkkkkkkk",
+      "id": "b26ac04d-e899-492b-93a9-133c1e22f9cb",
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
       "element": "wind"
+    },
+    {
+      "id": "b2dd9a99-bc6e-42d4-a684-cc89d7e1691f",
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
